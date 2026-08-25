@@ -1,0 +1,6 @@
+interface:
+  display_name: "Paper Reasoning Deep Dive"
+  short_description: "Reconstruct why a paper made each design choice"
+  default_prompt: "Use $paper-reasoning-deep-dive to deeply read this paper and explain why each design decision was made."
+policy:
+  allow_implicit_invocation: true
