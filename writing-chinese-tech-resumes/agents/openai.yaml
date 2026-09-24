@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文技术简历生成器"
+  short_description: "生成内容完整、层级清晰、版式稳定并完成逐页渲染验证的中文技术简历"
+  default_prompt: "使用 $writing-chinese-tech-resumes 创建或改写一份中文技术简历，并完成内容与版式验证。"
